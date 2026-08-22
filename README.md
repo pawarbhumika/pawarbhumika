@@ -23,7 +23,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="[www.linkedin.com/in/bhumika-pawar-309b8b371](https://github.com/pawarbhumika/pawarbhumika)" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/bhumika-pawar-309b8b371" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:pawarbhumika528@gmail.com">
