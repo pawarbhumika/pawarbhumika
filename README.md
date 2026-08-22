@@ -23,17 +23,15 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/bhumika-pawar-309b8b371
+" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:pawarbhumika528@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/pawarbhumika" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/YOUR-X-USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
 </a>
 </p>
 
