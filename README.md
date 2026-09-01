@@ -22,17 +22,13 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
-<a href="www.linkedin.com/in/bhumika-pawar-309b8b371" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:pawarbhumika528@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/pawarbhumika" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
+<div align='center'> 
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumika-pawar-309b8b371)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pawarbhumika528@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pawarbhumika)
+
+</div>
 
 ---
 
